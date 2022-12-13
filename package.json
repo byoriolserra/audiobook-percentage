@@ -6,6 +6,10 @@
   "bin": {
     "audiobook-percentage": "bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byoriolserra/audiobook-percentage.git"
+  },
   "scripts": {
     "test": "test"
   },
